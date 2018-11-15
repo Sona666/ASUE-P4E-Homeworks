@@ -1,4 +1,4 @@
-#list_ = list(map(int, input('Enter integers separated by spaces: ').split()))
+list_ = list(map(int, input('Enter integers separated by spaces: ').split()))
 min_ = list_[0]
 max_ = list_[0]
 
